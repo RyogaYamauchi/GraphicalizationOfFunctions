@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "GraphicalizationOfFunctions": {
+      "commandName": "Project",
+      "commandLineArgs": "Sample.cs",
+      "workingDirectory": "C:\\Users\\yaryo\\home\\research\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions"
+    }
+  }
+}
