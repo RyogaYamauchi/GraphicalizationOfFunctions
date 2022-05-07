@@ -1,4 +1,5 @@
 ﻿using GraphicalizationOfFunctions.Cli;
+using GraphicalizationOfFunctions;
 
 using CommandLine;
 
@@ -21,7 +22,8 @@ static void Process(Options options)
     foreach(var method in methods)
     {
         var syntax = (MethodDeclarationSyntax)method;
-        Console.WriteLine(syntax.Identifier.Text);
+        var walker = new NewWalker();
+        walker.Visit(syntax);
     }
 
 }
