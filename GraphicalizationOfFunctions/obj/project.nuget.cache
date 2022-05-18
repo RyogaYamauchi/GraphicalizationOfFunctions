@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/tAiB00chPwiDQGJTnWxJiFUkZ+kHvJ7c4UgbLISajS50vd2Rc1prZWLocBiDgob/mQm8aSa1Hj8zpfdgi8L7g==",
+  "dgSpecHash": "lCMFa/kvm/SDHdd9Vf4BMKnJ86VJHI1W75ytzz7KUuFmVGdxgRCtbJAN5vzRP2F82m5llJ3gk8zE5wUxVwupIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yaryo\\home\\research\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions.csproj",
+  "projectFilePath": "C:\\Users\\yaryo\\home\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yaryo\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512",
     "C:\\Users\\yaryo\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",

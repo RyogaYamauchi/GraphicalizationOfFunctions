@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yaryo\\home\\research\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions.csproj": {}
+    "C:\\Users\\yaryo\\home\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yaryo\\home\\research\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions.csproj": {
+    "C:\\Users\\yaryo\\home\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yaryo\\home\\research\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions.csproj",
+        "projectUniqueName": "C:\\Users\\yaryo\\home\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions.csproj",
         "projectName": "GraphicalizationOfFunctions",
-        "projectPath": "C:\\Users\\yaryo\\home\\research\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions.csproj",
+        "projectPath": "C:\\Users\\yaryo\\home\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions.csproj",
         "packagesPath": "C:\\Users\\yaryo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yaryo\\home\\research\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions\\obj\\",
+        "outputPath": "C:\\Users\\yaryo\\home\\GraphicalizationOfFunctions\\GraphicalizationOfFunctions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yaryo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300-preview.22204.3\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

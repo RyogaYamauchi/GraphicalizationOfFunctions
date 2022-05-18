@@ -24,6 +24,8 @@ static void Process(Options options)
         var syntax = (MethodDeclarationSyntax)method;
         var walker = new NewWalker();
         walker.Visit(syntax);
+
+        Console.WriteLine($"循環性参照度:#{walker.Complexity}");
     }
 
 }

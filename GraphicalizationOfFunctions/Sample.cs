@@ -4,12 +4,24 @@
     {
         public static void Start()
         {
-            Console.WriteLine("Hello world");
+            if(1 == 1)
+            {
+                return;
+            }
         }
 
         public static void StaticFunction()
         {
-            Console.WriteLine("Hello world");
+            var a = 0;
+            switch (a)
+            {
+                case 1:
+                    return;
+                case 2:
+                    return;
+                case 3:
+                    return;
+            }
         }
 
         public int Add(int num1, int num2)
